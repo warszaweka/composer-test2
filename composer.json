@@ -1,0 +1,13 @@
+{
+  "name": "warszaweka/composer-test2",
+  "license": "MIT",
+  "replace": {
+    "warszaweka/composer-test-replaced": "2.0"
+  },
+  "provide": {
+    "warszaweka/composer-test-provided": "6.0"
+  }
+  "suggest": {
+    "warszaweka/composer-test": "lolol"
+  }
+}
