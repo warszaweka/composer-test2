@@ -6,7 +6,7 @@
   },
   "provide": {
     "warszaweka/composer-test-provided": "6.0"
-  }
+  },
   "suggest": {
     "warszaweka/composer-test": "lolol"
   }
